@@ -1,6 +1,6 @@
 **Prevent disasters** → F‑keys inject guardrails that stop accidental mass updates or deletes  
 **Recover instantly** → History window logs the last 50 queries with restore/copy/pin  
-**Never lose critical scripts** → Pins library stores up to 25 permanent queries with tags and search
+**Never lose critical scripts** → Pins library stores up to 25 permanent queries with tags and search   
 **One‑keystroke workflows** → Alt+0 + F‑keys = crash‑safe execution at developer speed  
 
 
